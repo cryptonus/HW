@@ -12,3 +12,4 @@ D:\Csharp\HW\obj\Debug\net8.0\refint\HW.dll
 D:\Csharp\HW\obj\Debug\net8.0\HW.pdb
 D:\Csharp\HW\obj\Debug\net8.0\HW.genruntimeconfig.cache
 D:\Csharp\HW\obj\Debug\net8.0\ref\HW.dll
+D:\Csharp\HW\obj\Debug\net8.0\HW.sourcelink.json
