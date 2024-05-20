@@ -1,8 +1,8 @@
 namespace Grades
 {
-    public class gradecalc
+    public class Gradecalc
     {
-        public string GetGradePercentage(int percent)
+        public string GetGradePercentage(double percent)
         {
             if(percent >= 90 & percent <= 100)
             return "A";

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MgAgQB5FFeM=",
+  "dgSpecHash": "SLAK2WF/fEQ=",
   "success": true,
   "projectFilePath": "D:\\Csharp\\HW\\HW.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\singh\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
